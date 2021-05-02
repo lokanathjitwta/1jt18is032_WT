@@ -1,0 +1,21 @@
+table,td,th {
+            border:thick;
+            text-align: center;
+            background-color: rgba(0, 183, 255, 0.445);
+            margin:auto ;
+            border-radius: 8px;
+            border-spacing: 0.2cm;
+            height : 0.5cm;
+            width: 2cm;
+        }
+input {
+            text-align: center;
+            margin:auto
+        }
+button{
+    background-color:rgb(0, 183, 255);
+    border-radius: 4px;
+    margin: auto;
+    height : 1cm;
+    width : 1cm;
+}
