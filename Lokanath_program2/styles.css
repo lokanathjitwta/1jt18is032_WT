@@ -1,0 +1,19 @@
+table {
+    border: 1px solid black;
+    border-spacing: 0ch;
+    margin:auto;
+    width:35%;
+    height:50%;
+}
+
+td,tr,th {
+    background-color:orchid;
+    border: 1px solid black;
+    margin:auto;
+    text-align:center;
+    padding:1px;
+}
+p {
+    color: rgb(93, 189, 136);
+    text-align:center;
+}
