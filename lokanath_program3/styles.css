@@ -1,0 +1,33 @@
+div p {
+    margin: 1px;
+    padding: 1px;
+}
+
+table {
+    width: 100%;
+    height: 25%; 
+}
+img {
+    height: 10%;
+    width: 50%;
+}
+td {
+    height: 40%;
+    width: 50%;
+    margin: auto;
+}
+td p {
+    text-align: left;
+    margin: auto;
+}
+p img {
+    height: 8px;
+    width: 8px;
+}
+a:hover {
+    color: chartreuse;
+}
+h5 {
+    margin:2px;
+    padding:1px;
+}
